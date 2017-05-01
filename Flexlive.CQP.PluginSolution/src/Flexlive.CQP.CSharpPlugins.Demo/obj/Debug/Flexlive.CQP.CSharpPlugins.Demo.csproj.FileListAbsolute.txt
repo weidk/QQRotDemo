@@ -1,0 +1,7 @@
+D:\workspace\C#\QQRot\Flexlive.CQP.PluginSolution\Bin\Flexlive.CQP.CSharpPlugins.Demo.dll
+D:\workspace\C#\QQRot\Flexlive.CQP.PluginSolution\Bin\Flexlive.CQP.CSharpPlugins.Demo.pdb
+D:\workspace\C#\QQRot\Flexlive.CQP.PluginSolution\src\Flexlive.CQP.CSharpPlugins.Demo\obj\Debug\Flexlive.CQP.CSharpPlugins.Demo.csprojResolveAssemblyReference.cache
+D:\workspace\C#\QQRot\Flexlive.CQP.PluginSolution\src\Flexlive.CQP.CSharpPlugins.Demo\obj\Debug\Flexlive.CQP.CSharpPlugins.Demo.FormSettings.resources
+D:\workspace\C#\QQRot\Flexlive.CQP.PluginSolution\src\Flexlive.CQP.CSharpPlugins.Demo\obj\Debug\Flexlive.CQP.CSharpPlugins.Demo.csproj.GenerateResource.Cache
+D:\workspace\C#\QQRot\Flexlive.CQP.PluginSolution\src\Flexlive.CQP.CSharpPlugins.Demo\obj\Debug\Flexlive.CQP.CSharpPlugins.Demo.dll
+D:\workspace\C#\QQRot\Flexlive.CQP.PluginSolution\src\Flexlive.CQP.CSharpPlugins.Demo\obj\Debug\Flexlive.CQP.CSharpPlugins.Demo.pdb
